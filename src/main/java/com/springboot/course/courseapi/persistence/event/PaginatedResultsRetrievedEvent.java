@@ -9,6 +9,8 @@ import org.springframework.web.util.UriComponentsBuilder;
 
 public final class PaginatedResultsRetrievedEvent<T extends Serializable> extends ApplicationEvent {
 
+	private static final long serialVersionUID = 1L;
+
 	private final UriComponentsBuilder uriBuilder;
 
 	private final HttpServletResponse response;
