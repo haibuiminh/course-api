@@ -1,7 +1,7 @@
-package com.springboot.course.courseapi.persistence.service;
+package com.springboot.course.courseapi.foo.service;
 
-import com.springboot.course.courseapi.persistence.IOperations;
-import com.springboot.course.courseapi.persistence.model.Foo;
+import com.springboot.course.courseapi.foo.IOperations;
+import com.springboot.course.courseapi.foo.model.Foo;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -1,9 +1,8 @@
-package com.springboot.course.courseapi.persistence.service.impl;
+package com.springboot.course.courseapi.foo.service;
 
-import com.springboot.course.courseapi.persistence.dao.IFooDao;
-import com.springboot.course.courseapi.persistence.model.Foo;
-import com.springboot.course.courseapi.persistence.service.IFooService;
-import com.springboot.course.courseapi.persistence.service.common.AbstractService;
+import com.springboot.course.courseapi.foo.dao.IFooDao;
+import com.springboot.course.courseapi.foo.model.Foo;
+import com.springboot.course.courseapi.foo.service.common.AbstractService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

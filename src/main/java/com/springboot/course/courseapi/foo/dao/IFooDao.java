@@ -1,6 +1,6 @@
-package com.springboot.course.courseapi.persistence.dao;
+package com.springboot.course.courseapi.foo.dao;
 
-import com.springboot.course.courseapi.persistence.model.Foo;
+import com.springboot.course.courseapi.foo.model.Foo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,9 +1,9 @@
-package com.springboot.course.courseapi.persistence.service.common;
+package com.springboot.course.courseapi.foo.service.common;
 
 import java.io.Serializable;
 import java.util.List;
 
-import com.springboot.course.courseapi.persistence.IOperations;
+import com.springboot.course.courseapi.foo.IOperations;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

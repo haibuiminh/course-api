@@ -1,4 +1,4 @@
-package com.springboot.course.courseapi.persistence.model;
+package com.springboot.course.courseapi.foo.model;
 
 import java.io.Serializable;
 

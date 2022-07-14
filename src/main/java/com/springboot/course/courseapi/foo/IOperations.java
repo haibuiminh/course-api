@@ -1,4 +1,4 @@
-package com.springboot.course.courseapi.persistence;
+package com.springboot.course.courseapi.foo;
 
 import java.io.Serializable;
 import java.util.List;
